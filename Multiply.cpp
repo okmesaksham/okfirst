@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-    float a,b,mul;
+    float a,b,multiply;
     cout<<"Enter a and b : ";
     cin>>a>>b;
-    mul=a*b;
-    cout<<"product is : "<<mul;
+    multiply=a*b;
+    cout<<"product is : "<<multiply;
 }
